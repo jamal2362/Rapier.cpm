@@ -388,21 +388,16 @@
 			<filename>default.ttf</filename>
 			<size>17</size>
 		</font>
-		<font>
-			<name>OpenSansSemiCondensed</name>
-			<filename>OpenSans_SemiCondensed-Medium.ttf</filename>
-			<size>14</size>
-		</font>
-		<font>
-			<name>ArialUni</name>
-			<filename>arialuni.ttf</filename>
-			<size>26</size>
-		</font>
-		<font>
-			<name>ArialUniSmall</name>
-			<filename>arialuni.ttf</filename>
-			<size>15</size>
-		</font>
+        <font>
+            <name>font_tiny</name>
+            <filename>Inter-Unicode-Regular.ttf</filename>
+            <size>14</size>
+        </font>
+        <font>
+            <name>font_tiny_iconic</name>
+            <filename>fa-solid-900.ttf</filename>
+            <size>15</size>
+        </font>
 		<include>LyricsFonts</include>
 	</fontset>
 
@@ -854,21 +849,16 @@
 			<filename>arial.ttf</filename>
 			<size>16</size>
 		</font>
-		<font>
-			<name>OpenSansSemiCondensed</name>
-			<filename>OpenSans_SemiCondensed-Medium.ttf</filename>
-			<size>14</size>
-		</font>
-		<font>
-			<name>ArialUni</name>
-			<filename>arialuni.ttf</filename>
-			<size>26</size>
-		</font>
-		<font>
-			<name>ArialUniSmall</name>
-			<filename>arialuni.ttf</filename>
-			<size>15</size>
-		</font>
+        <font>
+            <name>font_tiny</name>
+            <filename>Inter-Unicode-Regular.ttf</filename>
+            <size>14</size>
+        </font>
+        <font>
+            <name>font_tiny_iconic</name>
+            <filename>fa-solid-900.ttf</filename>
+            <size>15</size>
+        </font>
 		<include>LyricsFonts</include>
 	</fontset>
 	
@@ -1316,21 +1306,16 @@
 			<filename>homizio nova.ttf</filename>
 			<size>19</size>
 		</font>
-		<font>
-			<name>OpenSansSemiCondensed</name>
-			<filename>OpenSans_SemiCondensed-Medium.ttf</filename>
-			<size>14</size>
-		</font>
-		<font>
-			<name>ArialUni</name>
-			<filename>arialuni.ttf</filename>
-			<size>26</size>
-		</font>
-		<font>
-			<name>ArialUniSmall</name>
-			<filename>arialuni.ttf</filename>
-			<size>15</size>
-		</font>
+        <font>
+            <name>font_tiny</name>
+            <filename>Inter-Unicode-Regular.ttf</filename>
+            <size>14</size>
+        </font>
+        <font>
+            <name>font_tiny_iconic</name>
+            <filename>fa-solid-900.ttf</filename>
+            <size>15</size>
+        </font>
 		<include>LyricsFonts</include>
 	</fontset>
 	
@@ -1874,21 +1859,16 @@
 			<size>17</size>
 			<linespacing>0.75</linespacing> 
 		</font>
-		<font>
-			<name>OpenSansSemiCondensed</name>
-			<filename>OpenSans_SemiCondensed-Medium.ttf</filename>
-			<size>14</size>
-		</font>
-		<font>
-			<name>ArialUni</name>
-			<filename>arialuni.ttf</filename>
-			<size>26</size>
-		</font>
-		<font>
-			<name>ArialUniSmall</name>
-			<filename>arialuni.ttf</filename>
-			<size>15</size>
-		</font>
+        <font>
+            <name>font_tiny</name>
+            <filename>Inter-Unicode-Regular.ttf</filename>
+            <size>14</size>
+        </font>
+        <font>
+            <name>font_tiny_iconic</name>
+            <filename>fa-solid-900.ttf</filename>
+            <size>15</size>
+        </font>
 		<include>LyricsFonts</include>
 	</fontset>
 	
@@ -2336,21 +2316,16 @@
 			<filename>NotoSans-Regular.ttf</filename>
 			<size>17</size>
 		</font>
-		<font>
-			<name>OpenSansSemiCondensed</name>
-			<filename>OpenSans_SemiCondensed-Medium.ttf</filename>
-			<size>14</size>
-		</font>
-		<font>
-			<name>ArialUni</name>
-			<filename>arialuni.ttf</filename>
-			<size>26</size>
-		</font>
-		<font>
-			<name>ArialUniSmall</name>
-			<filename>arialuni.ttf</filename>
-			<size>15</size>
-		</font>
+        <font>
+            <name>font_tiny</name>
+            <filename>Inter-Unicode-Regular.ttf</filename>
+            <size>14</size>
+        </font>
+        <font>
+            <name>font_tiny_iconic</name>
+            <filename>fa-solid-900.ttf</filename>
+            <size>15</size>
+        </font>
 		<include>LyricsFonts</include>
 	</fontset>
 	
@@ -2820,21 +2795,16 @@
 			<filename>Raleway-Regular.ttf</filename>
 			<size>16</size>
 		</font>
-		<font>
-			<name>OpenSansSemiCondensed</name>
-			<filename>OpenSans_SemiCondensed-Medium.ttf</filename>
-			<size>14</size>
-		</font>
-		<font>
-			<name>ArialUni</name>
-			<filename>arialuni.ttf</filename>
-			<size>26</size>
-		</font>
-		<font>
-			<name>ArialUniSmall</name>
-			<filename>arialuni.ttf</filename>
-			<size>15</size>
-		</font>
+        <font>
+            <name>font_tiny</name>
+            <filename>Inter-Unicode-Regular.ttf</filename>
+            <size>14</size>
+        </font>
+        <font>
+            <name>font_tiny_iconic</name>
+            <filename>fa-solid-900.ttf</filename>
+            <size>15</size>
+        </font>
 		<include>LyricsFonts</include>
 	</fontset>
 </fonts>
