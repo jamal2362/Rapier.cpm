@@ -3008,7 +3008,7 @@ msgid "Position of the codec logos in the PlayerProcessInfo"
 msgstr ""
 
 msgctxt "#32062"
-msgid "Show codec logos when video starts"
+msgid "Position of the codec logos when video starts"
 msgstr ""
 
 msgctxt "#32063"
@@ -3023,10 +3023,34 @@ msgctxt "#32065"
 msgid "VS10 mode"
 msgstr ""
 
-msgctxt "#32066"
-msgid "Coloured title lines in PlayerProcessInfo"
-msgstr ""
-
 msgctxt "#32067"
 msgid "L5 Active Offsets"
+msgstr ""
+
+msgctxt "#32068"
+msgid "Version"
+msgstr ""
+
+msgctxt "#32069"
+msgid "Bit depth"
+msgstr ""
+
+msgctxt "#32080"
+msgid "EOTF & Gamut"
+msgstr ""
+
+msgctxt "#32081"
+msgid "Duration of the codec logos when video starts"
+msgstr ""
+
+msgctxt "#32082"
+msgid "Standard"
+msgstr ""
+
+msgctxt "#32085"
+msgid "second"
+msgstr ""
+
+msgctxt "#32086"
+msgid "seconds"
 msgstr ""
