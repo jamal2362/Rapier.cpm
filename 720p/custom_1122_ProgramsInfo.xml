@@ -186,12 +186,12 @@
 						</item>
 						<item id="4">
 							<description>Platform</description>
-							<label>$LOCALIZE[32027]</label>
+							<label>$LOCALIZE[32071]</label>
 							<label2>$INFO[ListItem.Writer]</label2>
 						</item>
 						<item id="5">
 							<description>Publisher</description>
-							<label>$LOCALIZE[32028]</label>
+							<label>$LOCALIZE[32072]</label>
 							<label2>$INFO[ListItem.Studio]</label2>
 						</item>
 						<item id="6">

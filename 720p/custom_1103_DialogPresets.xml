@@ -1370,14 +1370,14 @@
 						</item>
 						<item id="90">
 							<description>Player Controls OSD</description>
-							<label>$LOCALIZE[32031]</label>
+							<label>$LOCALIZE[32075]</label>
 							<onclick>Skin.SetString($INFO[Skin.String(CustomBtnPresetsParam)],ActivateWindow(PlayerControls))</onclick>
 							<onclick>Dialog.Close(1103)</onclick>
 							<visible>Container(450).HasFocus(12)</visible>
 						</item>
 						<item id="91">
 							<description>Go To Fullscreen Playback</description>
-							<label>$LOCALIZE[32030]</label>
+							<label>$LOCALIZE[32074]</label>
 							<onclick>Skin.SetString($INFO[Skin.String(CustomBtnPresetsParam)],Fullscreen)</onclick>
 							<onclick>Dialog.Close(1103)</onclick>
 							<visible>Container(450).HasFocus(12)</visible>

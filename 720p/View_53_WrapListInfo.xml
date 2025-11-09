@@ -506,14 +506,14 @@
 			<usecontrolcoords>true</usecontrolcoords>
 			<visible>!String.IsEmpty(ListItem.Title)</visible>
 			<include content="WrapListInfoGrouplistContent">
-				<param name="label" value="$LOCALIZE[32027]:" />
+				<param name="label" value="$LOCALIZE[32071]:" />
 				<param name="maxwidth" value="150" />
 				<param name="info" value="$INFO[ListItem.Writer]" />
 				<param name="visible" value="true" />
 			</include>
 			<include>WrapInfoViewDot</include>
 			<include content="WrapListInfoGrouplistContent">
-				<param name="label" value="$LOCALIZE[32028]:" />
+				<param name="label" value="$LOCALIZE[32072]:" />
 				<param name="maxwidth" value="140" />
 				<param name="info" value="$INFO[ListItem.Studio]" />
 				<param name="visible" value="true" />

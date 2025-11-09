@@ -11,6 +11,11 @@
 	</coordinates>
 
 	<controls>
+	
+		<include condition="Skin.HasSetting(osd.useleftCodecLogos)">CodecLogosLeftOSD</include>
+		<include condition="Skin.HasSetting(osd.usecenterCodecLogos)">CodecLogosCenterOSD</include>
+		<include condition="Skin.HasSetting(osd.userightCodecLogos)">CodecLogosRightOSD</include>
+				
 		<control type="group">
 			<visible>![Window.IsActive(OSDVideoSettings) | Window.IsActive(OSDAudioSettings) | Window.IsActive(OSDSubtitleSettings) | Window.IsActive(VideoBookmarks) | Window.IsActive(SliderDialog) | Window.IsActive(osdcmssettings) | Window.IsActive(playerprocessinfo) | Window.IsActive(1121)]</visible>
 			<top>655</top>
@@ -777,7 +782,7 @@
 				<visible>Control.HasFocus(127) | ControlGroup(402).HasFocus | Control.HasFocus(405)</visible>
 				<include>DialogOpenCloseAnim</include>
 				<bottom>84</bottom>
-				<height>199</height>
+				<height>229</height>
 				
 				<control type="grouplist">
 					<itemgap>0</itemgap>
@@ -788,7 +793,7 @@
 					</control>
 					<control type="image">
 						<width>340</width>
-						<height>111</height>
+						<height>147</height>
 						<texture border="40,2,40,2">gui/context-menu-middle.png</texture>
 					</control>
 					<control type="image">
@@ -845,6 +850,15 @@
 						<include>DialogContentLabel</include>
 						<label>$LOCALIZE[31162]</label>
 						<onclick>PlayerDebug</onclick>
+					</control>
+					<control type="button" id="181">
+						<description>VS10 mode</description>
+						<width>270</width>
+						<hitrect x="-10" y="-1" w="290" h="39"/>
+						<include>DialogContentLabel</include>
+						<label>$LOCALIZE[32065]</label>
+						<onclick>Dialog.Close(all,true)</onclick>
+						<onclick>ActivateWindow(1133)</onclick>
 					</control>
 				</control>
 			</control>

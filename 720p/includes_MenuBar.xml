@@ -220,7 +220,7 @@
 				<include>MenuBarIconBtn</include>
 				<texturefocus>gui/menu-bar-favourites-focus.png</texturefocus>
 				<texturenofocus>gui/menu-bar-favourites-nofocus.png</texturenofocus>
-				<onclick>ActivateWindow(Favourites)</onclick>
+				<onclick>ActivateWindow(favouritesbrowser)</onclick>
 				<animation effect="fade" start="100" end="60" condition="Window.IsActive(favouritesbrowser)">Conditional</animation>
 				<enable>!Window.IsActive(favouritesbrowser)</enable>
 			</control>
@@ -1993,7 +1993,7 @@
 				<include>MenuBarSettingsBtn</include>
 				<onclick>RunPlugin($INFO[ListItem.FileNameAndPath]/%%GET_INFO%%)</onclick>
 				<oninfo>Dialog.Close(1122)</oninfo>
-				<label>[UPPERCASE]$LOCALIZE[32029][/UPPERCASE]</label>
+				<label>[UPPERCASE]$LOCALIZE[32073][/UPPERCASE]</label>
 				<enable>!Skin.HasSetting(EnableKioskMode)</enable>
 			</control>
 			<control type="image" id="116">
